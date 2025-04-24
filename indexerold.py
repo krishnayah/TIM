@@ -9,7 +9,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 
 database_file = 'data.json'
-api_key = "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"
+api_key = ""
 
 client = OpenAI(api_key=api_key)
 
